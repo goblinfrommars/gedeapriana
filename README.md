@@ -71,10 +71,11 @@ I am a computer science student from Udayana University 🥰
 
 ### Design ❤️  
 <div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
+<img style="margin: 10px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1653214838~hmac=621ea3effda48317d4b7a507ff265f2d" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>  
 
