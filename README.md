@@ -1,4 +1,4 @@
-## Hey 👋, I'm I Komang Gede Apriana  
+## Hey 👋, I'm I Komang Gede Apriana also known as Red Queen
   
 
 <a href="https://github.com/gedeapriana" target="_blank">
