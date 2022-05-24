@@ -1,9 +1,16 @@
 ## Hey 👋, I'm I Komang Gede Apriana
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gedeapriana&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeapriana&layout=compact" />
+<hr>
 
-<p><b>Glad to see you here 👋</b></p>
-<p>I'm I Komang Gede Apriana, also knwon as Pri. I'm currently studying computer science at <b>Udayana University</b></p>
+### Glad to see you here 👋
+I'm I Komang Gede Apriana, also knwon as Pri. I'm currently studying computer science at <b>Udayana University 🎓</b>
+
+- 📝 i'm currently learning Javascript & its framework
+- 💖 Safety and trust
+- 🏳 Beginner's mindset and curiosity
+- 🙌 Shared understanding and consensus
+<hr>
 
 ### Skills📑
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,3 +26,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+<hr>
+
+## Contact Me 📧
