@@ -2,6 +2,9 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gedeapriana&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeapriana&layout=compact" />
 
+<p><b>Glad to see you here 👋</b></p>
+<p>I'm I Komang Gede Apriana, also knwon as Pri. I'm currently studying computer science at <b>Udayana University</b></p>
+
 ### Skills📑
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
