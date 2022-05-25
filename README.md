@@ -30,5 +30,6 @@ I'm I Komang Gede Apriana, also knwon as Pri. I'm currently studying computer sc
 
 ## Contact Me 📧
 <a href="https://wa.me/6281339486902"> <img width="20%" align="left" alt="Asset 1@2x" src="https://user-images.githubusercontent.com/50385762/170088070-ac884cf6-4fb3-45b1-818b-61b2bef84feb.png"> </a>
-<img width="20%" align="left" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/50385762/170088701-3649e858-c93f-48d6-8b18-2b64eb1b6e5d.png">
+
+<a href="https://www.linkedin.com/in/komang-apriana"><img width="20%" align="left" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/50385762/170088701-3649e858-c93f-48d6-8b18-2b64eb1b6e5d.png"> </a>
 <img width="20%" alt="Asset 3@2x" src="https://user-images.githubusercontent.com/50385762/170089269-930b73c0-cd03-49da-acbb-57bc83b8e657.png">
