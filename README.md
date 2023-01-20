@@ -1,6 +1,4 @@
 ## Hey 👋, I'm I Komang Gede Apriana
-<hr>
-
 ### Glad to see you here 👋
 I'm I Komang Gede Apriana, also knwon as Pri. I'm currently studying computer science at <b>Udayana University 🎓</b>
 
